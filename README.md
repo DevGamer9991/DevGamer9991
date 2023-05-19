@@ -1,6 +1,6 @@
 # 👋 Hi, I’m DevGamer9991!
 
-I am a hobbyist software developer and video editor. I am the developer of [AyakoAI](https://twitch.tv/devgamer9991), an AI chatbot that streams on [Twitch](https://twitch.tv).
+I am a self taught software developer and video editor. I am the developer of [AyakoAI](https://twitch.tv/devgamer9991), an AI chatbot that streams on [Twitch](https://twitch.tv).
 
 ## 🛠️ Languages, Frameworks and Tools
 - Java
