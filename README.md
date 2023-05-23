@@ -24,6 +24,3 @@ I am a self taught software developer and video editor. I am the developer of [A
 - Discord: `Dev{Gamer}#9991`
 - Email: [dgamer9991@gmail.com](mailto:dgamer9991@gmail.com)
 #
-
-[![DevGamers's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DevGamer9991&theme=react)](https://github.com/DevGamer9991)
-
