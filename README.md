@@ -21,7 +21,7 @@ I am a self taught software developer and video editor. I am the developer of [A
 - Lua
 
 ## ✉️ Contact Info
-- Discord: `Dev{Gamer}#9991`
+- Discord: `devgamer#9991`
 - Email: [dgamer9991@gmail.com](mailto:dgamer9991@gmail.com)
 
 ## 🎧 Spotify
