@@ -1,6 +1,6 @@
 # 👋 Hi, I’m DevGamer9991!
 
-I am a self taught software developer and video editor. I am the developer of [AyakoAI](https://twitch.tv/devgamer9991), an AI chatbot that streams on [Twitch](https://twitch.tv).
+I am a self taught software developer and video editor. 
 
 ## 🛠️ Languages, Frameworks and Tools
 - Java
@@ -22,7 +22,7 @@ I am a self taught software developer and video editor. I am the developer of [A
 
 ## ✉️ Contact Info
 - Discord: `devgamer9991` (Feel free to dm me!)
-- Email: [dgamer9991@gmail.com](mailto:dgamer9991@gmail.com)
+- Email: [pathornton114@gmail.com](mailto:pathornton114@gmail.com)
 
 ## 🎧 Spotify
 
