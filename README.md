@@ -2,7 +2,8 @@
 
 I am a self taught software developer and video editor.
 
-Developer and Admin For High Speed, join the Discord [here!](https://discord.gg/highspeed)
+
+**Developer and Admin For High Speed, join the Discord [here!](https://discord.gg/highspeed)**
 
 ## 🛠️ Languages, Frameworks and Tools
 - Java
