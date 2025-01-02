@@ -3,7 +3,7 @@
 I am a self taught software developer and video editor.
 
 
-**Developer and Admin For High Speed - 18k+,**
+**Developer and Admin For High Speed - 24k+,**
 **Join the Discord [here!](https://discord.gg/highspeed)**
 
 ## 🛠️ Languages, Frameworks and Tools
