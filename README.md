@@ -21,7 +21,7 @@ My experience spans a variety of tools and technologies including:
 
 ## 🎓 Certifications
 
-- **CompTIA Network+ Certified**: 
+- [**CompTIA Network+ Certified**](https://www.credly.com/badges/5bcdafb2-7ec5-41fc-9e6c-f89609fe22c2)
 
 ## 🛠️ Languages, Frameworks and Tools
 - C# 
