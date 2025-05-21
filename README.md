@@ -1,36 +1,47 @@
 # 👋 Hi, I’m DevGamer9991!
 
-I am a self taught software developer and video editor.
+![Profile Views](https://komarev.com/ghpvc/?username=DevGamer9991)
 
+Hi! I’m **DevGamer9991**, a backend developer with a strong focus on building **scalable APIs**, **automation bots**, and **managing backend databases**. I’m currently an admin and developer for [**High Speed**](https://highspeed.gg), an active online community with over **28.6k members**.
 
-**Developer and Admin For High Speed - 24k+,**
-**Join the Discord [here!](https://discord.gg/highspeed)**
+I work across multiple languages and frameworks, but I specialize in backend systems using **Java**, **C#**, **Python**, and **TypeScript**. Whether it's designing RESTful APIs, building Discord bots, or optimizing server-side performance, I enjoy solving complex problems with clean, efficient code.
+
+My experience spans a variety of tools and technologies including:
+
+- **Node.js**, **Express**, and **FastAPI** for backend services
+
+- **PostgreSQL**, **MySQL**, and **MongoDB** for database design and management
+
+- **Python** for automation and AI/ML workflows using **PyTorch** and **TensorFlow**
+
+- **C#** for server-side logic for games like **Assetto Corsa**
+---
+🔗 Check out the community I help run at [highspeed.gg](https://highspeed.gg)<br>
+💬 Join the [Discord](https://discord.gg/highspeed)!
 
 ## 🛠️ Languages, Frameworks and Tools
-- Java
-  - Minecraft Modding/Plugins
-    - [Fabric](https://fabricmc.net/)
-    - [Spigot](https://www.spigotmc.org/)
 - C# 
   - [Unity](https://unity.com/)
 - HTML
 - CSS 
   - [Sass](https://sass-lang.com/)
-- JavaScript/TypeScript
-  - [React](https://react.dev/)
-  - [Angular](https://angular.io/)
+  - [Tailwind](https://tailwindcss.com/)
 - Python
   - [Pytorch](https://pytorch.org/)
   - [Tensorflow](https://www.tensorflow.org/)
 - Lua
+- JavaScript/TypeScript
+  - [NodeJS](https://nodejs.org)
+  - [React](https://react.dev/)
+  - [Angular](https://angular.io/)
+- Java
+  - Minecraft Modding/Plugins
+    - [Fabric](https://fabricmc.net/)
+    - [Spigot](https://www.spigotmc.org/)
 
 ## ✉️ Contact Info
 - Discord: `devgamer9991` (Feel free to dm me!)
 - Email: [pathornton114@gmail.com](mailto:pathornton114@gmail.com)
-
-## 🎧 Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7wg6xugd3xrjlb3edu545zucq&cover_image=false&theme=default&show_offline=true&background_color=141414&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=7wg6xugd3xrjlb3edu545zucq&redirect=true)
 
 ## 📈 Stats
 
