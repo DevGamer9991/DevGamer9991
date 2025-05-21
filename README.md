@@ -19,6 +19,10 @@ My experience spans a variety of tools and technologies including:
 🔗 Check out the community I help run at [highspeed.gg](https://highspeed.gg)<br>
 💬 Join the [Discord](https://discord.gg/highspeed)!
 
+## 🎓 Certifications
+
+- **CompTIA Network+ Certified**: 
+
 ## 🛠️ Languages, Frameworks and Tools
 - C# 
   - [Unity](https://unity.com/)
