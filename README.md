@@ -4,7 +4,7 @@
 
 Hi! My name is **Parker**, and I'm a backend developer with a strong focus on building **scalable APIs**, **automation bots**, and **managing backend databases**. I’m currently an admin and developer for [**High Speed**](https://highspeed.gg), an active online community with over **28.6k members**.
 
-I work across multiple languages and frameworks, but I specialize in backend systems using **Java**, **C#**, **Python**, and **TypeScript**. Whether it's designing RESTful APIs, building Discord bots, or optimizing server-side performance, I enjoy solving complex problems with clean, efficient code.
+I work across multiple languages and frameworks, but I specialize in backend systems using **Java**, **C#**, **Python**, and **NodeJS**. Whether it's designing RESTful APIs, building Discord bots, or optimizing server-side performance, I enjoy solving complex problems with clean, efficient code.
 
 My experience spans a variety of tools and technologies including:
 
