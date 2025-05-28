@@ -16,8 +16,7 @@ My experience spans a variety of tools and technologies including:
 
 - **C#** for server-side logic for games like **Assetto Corsa**
 ---
-🔗 Check out the community I help run at [highspeed.gg](https://highspeed.gg)<br>
-💬 Join the [Discord](https://discord.gg/highspeed)!
+🔗 If you want high quality Assetto Corsa Servers - Check out [Highspeed.gg](https://highspeed.gg)!
 
 ## 🎓 Certifications
 
