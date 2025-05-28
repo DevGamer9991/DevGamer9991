@@ -48,6 +48,6 @@ My experience spans a variety of tools and technologies including:
 
 ## 📈 Stats
 
-![DevGamer9991's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgamer9991&show_icons=true&theme=transparent)
+![DevGamer9991's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgamer9991&show_icons=true&theme=apprentice&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgamer9991&layout=compact)](https://github.com/DevGamer9991)
