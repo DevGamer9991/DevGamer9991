@@ -50,6 +50,6 @@ My experience spans a variety of tools and technologies including:
 
 ![DevGamer9991's GitHub stats](https://github-readme-stats-pearl-kappa-34.vercel.app/api?username=devgamer9991&show_icons=true&theme=transparent&count_private=true)
 
-[![Top Langs](https://github-readme-stats-pearl-kappa-34.vercel.app/api/top-langs/?username=devgamer9991&langs_count=6&exclude_repo=AssettoServer,actools,AuxBattlesProject-Unity,AuxBattles)](https://github.com/DevGamer9991)
-
 [![Parker's WakaTime stats](https://github-readme-stats-pearl-kappa-34.vercel.app/api/wakatime?username=DevGamer9991)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-pearl-kappa-34.vercel.app/api/top-langs/?username=devgamer9991&langs_count=6&exclude_repo=AssettoServer,actools,AuxBattlesProject-Unity,AuxBattles)](https://github.com/DevGamer9991)
