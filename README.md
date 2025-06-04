@@ -52,4 +52,4 @@ My experience spans a variety of tools and technologies including:
 
 [![Top Langs](https://github-readme-stats-pearl-kappa-34.vercel.app/api/top-langs/?username=devgamer9991&layout=compact)](https://github.com/DevGamer9991)
 
-[![Parker's WakaTime stats](https://github-readme-stats-pearl-kappa-34.vercel.app/api/wakatime?username=DevGamer9991)](https://github.com/anuraghazra/github-readme-stats)
+[![Parker's WakaTime stats](https://github-readme-stats-pearl-kappa-34.vercel.app/api/wakatime?username=DevGamer9991&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
