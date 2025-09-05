@@ -8,7 +8,7 @@ I work across multiple languages and frameworks, but I specialize in backend sys
 
 My experience spans a variety of tools and technologies including:
 
-- **Node.js**, **Express**, and **FastAPI** for backend services
+- **Node.js**, and **Express** for backend services
 
 - **PostgreSQL**, **MySQL**, and **MongoDB** for database design and management
 
