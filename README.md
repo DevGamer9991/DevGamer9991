@@ -35,7 +35,7 @@ My experience spans a variety of tools and technologies including:
 - Lua
 - JavaScript/TypeScript
   - [NodeJS](https://nodejs.org)
-  - [React](https://react.dev/)
+  - [React](https://react.dev/) / [NextJS](https://nextjs.org/)
   - [Angular](https://angular.io/)
 - Java
   - Minecraft Modding/Plugins
