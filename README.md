@@ -48,6 +48,8 @@ My experience spans a variety of tools and technologies including:
 
 ## 📈 Stats
 
+[![DevGamer9991's TryHackMe stats](https://tryhackme-badges.s3.amazonaws.com/DevGamer9991.png)](https://tryhackme.com/p/DevGamer9991)
+
 ![DevGamer9991's GitHub stats](https://github-readme-stats-pearl-kappa-34.vercel.app/api?username=devgamer9991&show_icons=true&theme=transparent&count_private=true)
 
 [![Parker's WakaTime stats](https://github-readme-stats-pearl-kappa-34.vercel.app/api/wakatime?username=DevGamer9991)](https://wakatime.com/@DevGamer9991)
